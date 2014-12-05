@@ -23,7 +23,7 @@ solution:
 
 re-downloaded static docs on your Yosemite (10.10.1).
 
-* related tips:
+**related tips**
 
 by going to application preferences and enter a file URL instead of http,
 you can force 4D to use local docs.
